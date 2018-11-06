@@ -12,3 +12,5 @@
 		}
 	}
 	add_action('init','add_admin_acct');
+
+?>
